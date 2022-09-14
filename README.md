@@ -8,5 +8,12 @@ Habilidades: HTML / CSS / Java / MySQL
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/cesardro)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/cesardrosolano//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/alejandrosolano98//)  
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cesardro&show_icons=true&include_all_commits=true&theme=darcula&hide_border=true" alt="Cesar's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesardro&layout=compact&theme=darcula&hide_border=true" /></a> |
-| ------------- | ------------- |
+<!-- Dark Mode -->
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=150 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=cesardro&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=darcula&bg_color=000000#gh-dark-mode-only" alt="Cesar Alejandro's Language stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=cesardro&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats&theme=darcula&bg_color=000000#gh-dark-mode-only" alt="Cesar Alejandro's Github stats" />
+</a>
+</div>
