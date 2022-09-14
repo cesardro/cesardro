@@ -1,4 +1,6 @@
-### Ey! 🤠 Mi nombre es Cesar Alejandro.
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hola, soy programador!" src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
 #### Soy desarrollador de Aplicaciones Web.
 
 Habilidades: HTML / CSS / Java / MySQL
