@@ -6,7 +6,7 @@ Habilidades: HTML / CSS / Java / MySQL
 - 🔭 Estoy trabajando en mis estudios. 
 - 🌱 Estoy aprendiendo Phyton y mas... 
 
-[<img src='https://user-images.githubusercontent.com/112773974/190139201-09cd5179-a069-4f32-8240-5c87067f1e25.png' alt='github' height='40'>](https://github.com/cesardro)  [<img src='https://user-images.githubusercontent.com/112773974/190138658-3bf257cb-bc2c-4c8b-8457-9f0133861234.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/cesardrosolano/)  [<img src='https://user-images.githubusercontent.com/112773974/190138804-bfcf9c23-28df-4a6b-9a3f-d49520ee5966.png' alt='instagram' height='40'>](https://www.instagram.com/alejandrosolano98/)  
+[<img src='https://user-images.githubusercontent.com/112773974/190139201-09cd5179-a069-4f32-8240-5c87067f1e25.png' alt='github' height='40'>](https://github.com/cesardro)  [<img src='https://user-images.githubusercontent.com/112773974/190138658-3bf257cb-bc2c-4c8b-8457-9f0133861234.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/cesardrosolano/)  
 
 <div> 
 <a href="https://github.com/anuraghazra/github-readme-stats">
